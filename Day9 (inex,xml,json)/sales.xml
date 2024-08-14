@@ -1,0 +1,17 @@
+<sales>
+    <sale>
+        <saleID>1</saleID>
+        <saleDate>2023-01-01</saleDate>
+        <region>North</region>
+        <product>ProductA</product>
+        <amount>100.00</amount>
+    </sale>
+    <sale>
+        <saleID>2</saleID>
+        <saleDate>2023-01-02</saleDate>
+        <region>South</region>
+        <product>ProductB</product>
+        <amount>200.00</amount>
+    </sale>
+    <!-- More sales -->
+</sales>
